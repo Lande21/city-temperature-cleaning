@@ -1,3 +1,3 @@
 # city-temperature-cleaning
 
-This project is about data cl
+This project is about data cleaning
