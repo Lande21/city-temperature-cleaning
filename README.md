@@ -6,3 +6,4 @@
 + identify and handle outliters
 + check for inconsistencies
 + save cleaned datasets
++ Preparing the documenattion
